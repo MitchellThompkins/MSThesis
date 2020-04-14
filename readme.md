@@ -1,4 +1,4 @@
-This document was submitted to the Graduate School and Department of Electrical and Electronic Engineering at Yonsei University in Seoul, South Korea, and then successfully defended in December of 2015 for the degree of Master of Science. The abstract is shown below.
+The subsequent publication in IEEE can be found here: https://ieeexplore.ieee.org/document/8039228/versions
 
 **ABSTRACT**
 
